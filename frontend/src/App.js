@@ -10,9 +10,7 @@ const Layout = ({ children }) => {
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
       {/* Navigation could be added here if needed */}
       <main>{children}</main>
-      <footer className="fixed bottom-0 w-full py-2 px-4 text-center text-gray-400 text-sm backdrop-blur-sm bg-gray-900/30">
-        © {new Date().getFullYear()} Quiz App. All rights reserved.
-      </footer>
+   
     </div>
   );
 };
