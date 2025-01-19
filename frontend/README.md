@@ -1,7 +1,7 @@
 # 🧠 Simple Quiz Application
 
 
-
+https://quiz-application-lilac.vercel.app/
 
 
 ## 🚀 Tech Stack
@@ -48,8 +48,6 @@ Ensure you have the following installed on your system:
    By default, the application runs on [http://localhost:3000](http://localhost:3000). Open this URL in your browser to interact with the quiz application.
 
 ---
-
-
 
 
 
